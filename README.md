@@ -1,0 +1,1 @@
+The dataset used for this project is collect from Kaggle which consisted of international football matches which included both Friendly as well as Competitive games. I have tried running various queries related to the dataset.
