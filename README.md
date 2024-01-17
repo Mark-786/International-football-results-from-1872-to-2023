@@ -1,4 +1,4 @@
-results.csv includes the following columns:
+The results.csv includes the following columns:
 date - date of the match
 home_team - the name of the home team
 away_team - the name of the away team
